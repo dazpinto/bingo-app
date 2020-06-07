@@ -5,7 +5,7 @@
       <router-link to="/caller">Caller</router-link>
     </p>
 
-    <div class="hero">
+    <div class="hero" style='display: none;'>
       <div class="hero-body">
         <img src="./assets/logo.png">
       </div>
