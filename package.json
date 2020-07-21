@@ -10,7 +10,7 @@
   "dependencies": {
     "buefy": "^0.8.15",
     "core-js": "^3.6.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "simple-crypto-js": "^2.2.0",
     "vue": "^2.6.11",
     "vue-clipboard2": "^0.3.1",
